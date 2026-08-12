@@ -1,1 +1,0 @@
-requests\nbeautifulsoup4\npandas\njupyter
